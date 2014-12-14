@@ -1,0 +1,24 @@
+<palette>
+    <id>843490</id>
+    <title>Duchamp</title>
+    <userName>AR3</userName>
+    <numViews>14</numViews>
+    <numVotes>1</numVotes>
+    <numComments>0</numComments>
+    <numHearts>0</numHearts>
+    <rank>0</rank>
+    <dateCreated>2009-05-31 22:13:41</dateCreated>
+    <description></description>
+    <url>http://www.colourlovers.com/palette/843490/Duchamp</url>
+    <imageUrl>http://www.colourlovers.com/paletteImg/FFFB00/000000/FFFFFF/FF0000/0000FF/Duchamp.png</imageUrl>
+    <badgeUrl>http://www.colourlovers.com/images/badges/p/843/843490_Duchamp.png</badgeUrl>
+    <apiUrl>http://www.colourlovers.com/api/palette/843490</apiUrl>
+    <colors>
+        <hex>FFFB00</hex>
+        <hex>000000</hex>
+        <hex>FFFFFF</hex>
+        <hex>FF0000</hex>
+        <hex>0000FF</hex>
+    </colors>
+    <colorWidths>0.2,0.2,0.2,0.2,0.2</colorWidths>
+</palette>

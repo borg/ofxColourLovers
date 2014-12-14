@@ -1,0 +1,24 @@
+<palette>
+    <id>2197233</id>
+    <title>colourize</title>
+    <userName>fillone_dma</userName>
+    <numViews>10</numViews>
+    <numVotes>3</numVotes>
+    <numComments>0</numComments>
+    <numHearts>0</numHearts>
+    <rank>0</rank>
+    <dateCreated>2012-05-27 22:06:18</dateCreated>
+    <description></description>
+    <url>http://www.colourlovers.com/palette/2197233/colourize</url>
+    <imageUrl>http://www.colourlovers.com/paletteImg/000F2B/FFE631/26FF79/CF180E/FF429A/colourize.png</imageUrl>
+    <badgeUrl>http://www.colourlovers.com/images/badges/p/2197/2197233_colourize.png</badgeUrl>
+    <apiUrl>http://www.colourlovers.com/api/palette/2197233</apiUrl>
+    <colors>
+        <hex>000F2B</hex>
+        <hex>FFE631</hex>
+        <hex>26FF79</hex>
+        <hex>CF180E</hex>
+        <hex>FF429A</hex>
+    </colors>
+    <colorWidths>0.2,0.2,0.2,0.2,0.2</colorWidths>
+</palette>

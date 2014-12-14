@@ -1,0 +1,24 @@
+<palette>
+    <id>69001</id>
+    <title>Rothko</title>
+    <userName>klip</userName>
+    <numViews>586</numViews>
+    <numVotes>8</numVotes>
+    <numComments>3</numComments>
+    <numHearts>0</numHearts>
+    <rank>0</rank>
+    <dateCreated>2007-05-12 01:29:24</dateCreated>
+    <description></description>
+    <url>http://www.colourlovers.com/palette/69001/Rothko</url>
+    <imageUrl>http://www.colourlovers.com/paletteImg/D80000/C01800/F0F0C0/F0D878/F0A800/Rothko.png</imageUrl>
+    <badgeUrl>http://www.colourlovers.com/images/badges/p/69/69001_Rothko.png</badgeUrl>
+    <apiUrl>http://www.colourlovers.com/api/palette/69001</apiUrl>
+    <colors>
+        <hex>D80000</hex>
+        <hex>C01800</hex>
+        <hex>F0F0C0</hex>
+        <hex>F0D878</hex>
+        <hex>F0A800</hex>
+    </colors>
+    <colorWidths>0.2,0.2,0.2,0.2,0.2</colorWidths>
+</palette>

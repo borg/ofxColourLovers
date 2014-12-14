@@ -1,0 +1,5 @@
+ofxXmlSettings
+ofxColourLovers
+ofxColourTheory
+ofxHttpUtils
+ofxUI
