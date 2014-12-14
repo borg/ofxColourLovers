@@ -8,4 +8,5 @@ An openFrameworks addon to explore the wonderful world of ColourLovers.com(http:
 Dependencies
 
 [https://github.com/arturoc/ofxHttpUtils](https://github.com/arturoc/ofxHttpUtils)
+
 [https://github.com/rezaali/ofxUI](https://github.com/rezaali/ofxUI)
